@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hypergraph Partitioning on Ruslan Shaydulin&#39;s Blog</title>
-    <link>http://blog.shaydul.in/tags/hypergraph-partitioning/</link>
-    <description>Recent content in Hypergraph Partitioning on Ruslan Shaydulin&#39;s Blog</description>
+    <title>Hypergraph Partitioning on Hypergraph Partitioning Archive</title>
+    <link>http://shaydul.in/hypergraph-partitioning-archive/tags/hypergraph-partitioning/</link>
+    <description>Recent content in Hypergraph Partitioning on Hypergraph Partitioning Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Sep 2017 12:25:35 -0400</lastBuildDate>
     
-	<atom:link href="http://blog.shaydul.in/tags/hypergraph-partitioning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://shaydul.in/hypergraph-partitioning-archive/tags/hypergraph-partitioning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hypergraph Partitioning 101</title>
-      <link>http://blog.shaydul.in/post/hypergraph-partitioning-101/</link>
+      <link>http://shaydul.in/hypergraph-partitioning-archive/</link>
       <pubDate>Wed, 20 Sep 2017 12:25:35 -0400</pubDate>
       
-      <guid>http://blog.shaydul.in/post/hypergraph-partitioning-101/</guid>
+      <guid>http://shaydul.in/hypergraph-partitioning-archive/</guid>
       <description>&lt;p&gt;Even if you&amp;rsquo;re a seasoned CS researcher, you may not have heard about the burgeoning field of hypergraph partitioning. That&amp;rsquo;s an unfortunate omission, but this post will tell you all the basics you need to know.&lt;/p&gt;
 
 &lt;p&gt;In this post, I&amp;rsquo;ll try to answer three basic questions:&lt;/p&gt;

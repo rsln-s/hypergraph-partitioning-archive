@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ruslan Shaydulin&#39;s Blog</title>
-    <link>http://blog.shaydul.in/tags/</link>
-    <description>Recent content in Tags on Ruslan Shaydulin&#39;s Blog</description>
+    <title>Tags on Hypergraph Partitioning Archive</title>
+    <link>http://shaydul.in/hypergraph-partitioning-archive/tags/</link>
+    <description>Recent content in Tags on Hypergraph Partitioning Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Sep 2017 12:25:35 -0400</lastBuildDate>
     
-	<atom:link href="http://blog.shaydul.in/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://shaydul.in/hypergraph-partitioning-archive/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>101</title>
-      <link>http://blog.shaydul.in/tags/101/</link>
+      <link>http://shaydul.in/hypergraph-partitioning-archive/tags/101/</link>
       <pubDate>Wed, 20 Sep 2017 12:25:35 -0400</pubDate>
       
-      <guid>http://blog.shaydul.in/tags/101/</guid>
+      <guid>http://shaydul.in/hypergraph-partitioning-archive/tags/101/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hypergraph Partitioning</title>
-      <link>http://blog.shaydul.in/tags/hypergraph-partitioning/</link>
+      <link>http://shaydul.in/hypergraph-partitioning-archive/tags/hypergraph-partitioning/</link>
       <pubDate>Wed, 20 Sep 2017 12:25:35 -0400</pubDate>
       
-      <guid>http://blog.shaydul.in/tags/hypergraph-partitioning/</guid>
+      <guid>http://shaydul.in/hypergraph-partitioning-archive/tags/hypergraph-partitioning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://blog.shaydul.in/tags/research/</link>
+      <link>http://shaydul.in/hypergraph-partitioning-archive/tags/research/</link>
       <pubDate>Wed, 20 Sep 2017 12:25:35 -0400</pubDate>
       
-      <guid>http://blog.shaydul.in/tags/research/</guid>
+      <guid>http://shaydul.in/hypergraph-partitioning-archive/tags/research/</guid>
       <description></description>
     </item>
     

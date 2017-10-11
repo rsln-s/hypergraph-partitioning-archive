@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://blog.shaydul.in/sitemap.xml
+Sitemap: http://shaydul.in/hypergraph-partitioning-archive/sitemap.xml
