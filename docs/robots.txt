@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://blog.shaydul.in/sitemap.xml

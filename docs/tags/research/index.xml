@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Ruslan Shaydulin&#39;s Blog</title>
+    <link>http://blog.shaydul.in/tags/research/</link>
+    <description>Recent content in Research on Ruslan Shaydulin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Sep 2017 12:25:35 -0400</lastBuildDate>
+    
+	<atom:link href="http://blog.shaydul.in/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hypergraph Partitioning 101</title>
+      <link>http://blog.shaydul.in/post/hypergraph-partitioning-101/</link>
+      <pubDate>Wed, 20 Sep 2017 12:25:35 -0400</pubDate>
+      
+      <guid>http://blog.shaydul.in/post/hypergraph-partitioning-101/</guid>
+      <description>&lt;p&gt;Even if you&amp;rsquo;re a seasoned CS researcher, you may not have heard about the burgeoning field of hypergraph partitioning. That&amp;rsquo;s an unfortunate omission, but this post will tell you all the basics you need to know.&lt;/p&gt;
+
+&lt;p&gt;In this post, I&amp;rsquo;ll try to answer three basic questions:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;What is a hypergraph and the hypergraph partitioning?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Why would you want to partition a hypergraph?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How would you partition it?&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Without much further ado, let&amp;rsquo;s get started.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
