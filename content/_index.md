@@ -18,3 +18,5 @@ mathjax: true
 
 ## Stuff
 Coming soon!
+
+{{< ref "misc/hypergraph_partitioning_results_table.md" >}}
