@@ -136,13 +136,13 @@
 
 <p>\[ imbal=\dfrac{\sum_{v\in V_{max}}w(v)}{\frac{1}{k}\sum_{v\in V}w(v)}\text{, where } V_{max}: \sum_{v\in V_{max}}w(v) = \max_i(\sum_{v\in V_{i}}w(v)) \]</p>
 
-<p>Cut metric used by this benchmark is the number of cut hyperedges (i.e. \(|E_{cut}|\)) and all vertices and hyperedges have unit weight. However, in general hypergraph partitioning problem allows many cut metrics, as well as weighted vertices and hyperedges.</p>
+<p>Cut metric used by this benchmark is the number of cut hyperedges (i.e. \(|E_{cut}|\)). All vertices and hyperedges have unit weight. However, in general hypergraph partitioning problem allows many cut metrics, as well as weighted vertices and hyperedges.</p>
 
 <p>A quick introduction into the hypergraph partitioning problem can be found <a href="http://blog.shaydul.in/post/hypergraph-partitioning-101/">here</a>.</p>
 
 <h2 id="how-to-submit-your-algorithm">How to submit your algorithm</h2>
 
-<p>In order to have you algorithm included in this benchmark, you&rsquo;ll have to download the hypergraphs from <a href="https://clemson.box.com/s/r26tz74u6dlq87z9ukll80o66ur7lsje">here</a>, compute you partitioning and submit it in the following format.</p>
+<p>In order to have your algorithm included in this benchmark, you&rsquo;ll have to download the hypergraphs from <a href="https://clemson.box.com/s/r26tz74u6dlq87z9ukll80o66ur7lsje">here</a>, compute you partitioning and submit it in the following format.</p>
 
 <p>File with partitioning should be named <code>[graph name].[number of parts].[imbalance factor]</code>, where imbalance factor is an integer (number of percents). For example, file <code>lp_ken_07.2.10</code> should contain partitioning of the hypergraph lp_ken_07 into two parts with 10% imbalance factor.</p>
 

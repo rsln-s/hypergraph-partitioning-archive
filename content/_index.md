@@ -28,13 +28,13 @@ The constraint that partitionings should be of about the same size is called *im
 
 \\[ imbal=\dfrac{\sum\_{v\in V\_{max}}w(v)}{\frac{1}{k}\sum\_{v\in V}w(v)}\text{, where } V\_{max}: \sum\_{v\in V\_{max}}w(v) = \max\_i(\sum\_{v\in V\_{i}}w(v)) \\]
 
-Cut metric used by this benchmark is the number of cut hyperedges (i.e. \\(|E\_{cut}|\\)) and all vertices and hyperedges have unit weight. However, in general hypergraph partitioning problem allows many cut metrics, as well as weighted vertices and hyperedges.
+Cut metric used by this benchmark is the number of cut hyperedges (i.e. \\(|E\_{cut}|\\)). All vertices and hyperedges have unit weight. However, in general hypergraph partitioning problem allows many cut metrics, as well as weighted vertices and hyperedges.
 
 A quick introduction into the hypergraph partitioning problem can be found [here](http://blog.shaydul.in/post/hypergraph-partitioning-101/).
 
 ## How to submit your algorithm
 
-In order to have you algorithm included in this benchmark, you'll have to download the hypergraphs from [here](https://clemson.box.com/s/r26tz74u6dlq87z9ukll80o66ur7lsje), compute you partitioning and submit it in the following format.
+In order to have your algorithm included in this benchmark, you'll have to download the hypergraphs from [here](https://clemson.box.com/s/r26tz74u6dlq87z9ukll80o66ur7lsje), compute you partitioning and submit it in the following format.
 
 File with partitioning should be named `[graph name].[number of parts].[imbalance factor]`, where imbalance factor is an integer (number of percents). For example, file `lp_ken_07.2.10` should contain partitioning of the hypergraph lp\_ken\_07 into two parts with 10% imbalance factor.
 
