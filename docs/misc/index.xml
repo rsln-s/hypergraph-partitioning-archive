@@ -17,7 +17,8 @@
       <pubDate>Thu, 12 Oct 2017 17:57:19 -0400</pubDate>
       
       <guid>http://shaydul.in/hypergraph-partitioning-archive/misc/hypergraph_partitioning_results_table/</guid>
-      <description>Graph name |V| |E| |pins| Number of parts Imbalance Zoltan-AlgD Zoltan PaToH HMetis     Oregon-1 11492 11174 46818 128 1.03 3125.0 3066.0 3152.0 3069.0   Oregon-1 11492 11174 46818 128 1.05 2782.0 2783.0 3160.0 3066.0   Oregon-1 11492 11174 46818 128 1.1 2736.0 2743.0 3149.0 3033.0   Oregon-1 11492 11174 46818 16 1.03 1426.0 1455.0 1707.0 1742.0   Oregon-1 11492 11174 46818 16 1.</description>
+      <description>The metric is the number of hyperedges cut. The best result for a given set of parameters is highlighted in bold.
+   Graph name |V| |E| |pins| Number of parts Imbalance Zoltan-AlgD Zoltan PaToH HMetis     Oregon-1 11492 11174 46818 128 1.03 3125.0 3066.0 3152.0 3069.0   Oregon-1 11492 11174 46818 128 1.05 2782.0 2783.0 3160.0 3066.0   Oregon-1 11492 11174 46818 128 1.</description>
     </item>
     
   </channel>

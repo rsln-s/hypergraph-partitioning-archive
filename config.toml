@@ -18,6 +18,18 @@ paginate = 5                                             # （可选）首页显
   filename = "sitemap.xml"
 
 [[menu.main]]
+  name = "Hypergraphs"
+  weight = 30
+  identifier = "Hypergraphs"
+  url = "https://clemson.box.com/s/r26tz74u6dlq87z9ukll80o66ur7lsje"
+ 
+[[menu.main]]
+  name = "Results"
+  weight = 40
+  identifier = "results"
+  url = "/misc/hypergraph_partitioning_results_table/"
+ 
+[[menu.main]]
   name = "About Ruslan Shaydulin"
   weight = 50
   indentifier = "about"

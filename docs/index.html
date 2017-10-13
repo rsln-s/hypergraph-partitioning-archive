@@ -89,7 +89,11 @@
 </div>
 <nav id="mobile-menu" class="mobile-menu slideout-menu">
   <ul class="mobile-menu-list">
-    <a href="http://shaydul.in">
+    <a href="https://clemson.box.com/s/r26tz74u6dlq87z9ukll80o66ur7lsje">
+        <li class="mobile-menu-item">Hypergraphs</li>
+      </a><a href="/hypergraph-partitioning-archive/misc/hypergraph_partitioning_results_table/">
+        <li class="mobile-menu-item">Results</li>
+      </a><a href="http://shaydul.in">
         <li class="mobile-menu-item">About Ruslan Shaydulin</li>
       </a>
   </ul>
@@ -103,6 +107,10 @@
 <nav class="site-navbar">
   <ul id="menu" class="menu">
     <li class="menu-item">
+        <a class="menu-item-link" href="https://clemson.box.com/s/r26tz74u6dlq87z9ukll80o66ur7lsje">Hypergraphs</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/hypergraph-partitioning-archive/misc/hypergraph_partitioning_results_table/">Results</a>
+      </li><li class="menu-item">
         <a class="menu-item-link" href="http://shaydul.in">About Ruslan Shaydulin</a>
       </li>
   </ul>
@@ -116,11 +124,35 @@
   <div class="post-content">
       
 
-<h2 id="stuff">Stuff</h2>
+<h1 id="hypergraph-partitioning-archive">Hypergraph partitioning archive</h1>
 
-<p>Coming soon!</p>
+<p>Welcome to the Hypergraph partitioning archive.  The goal of this archive is to provide a benchmark for comparing the quality of hypergraph partitioning algorithms. This archive includes partitioning results by some of the most popular hypergraph partitioning packages. The researchers are welcome to submit their own partitionings to this archive.</p>
 
-http://shaydul.in/hypergraph-partitioning-archive/misc/hypergraph_partitioning_results_table/
+<h2 id="problem-definition">Problem definition</h2>
+
+<p>Let \(H=(V,E)\) be a hypergraph with a set of vertices \(V\) and the set of hypergredges \(E\). The goal of <em>k-way</em> hypergraph partitioning is to assign elements of \(V\) to mutually disjoint partitionings \(P_1, \ldots , P_k\) such that the partitionings are of mostly equal size and a metric on the cut is minimized. Here cut is a set of edges that span more than one partition: \(E_{cut}\subset E\) such that for \(e\in E\) holds \(e\in E_{cut}\) if and only if \(\exists i, j\in \mathbb{N}: e\cap V_i \neq \emptyset, e\cap V_j\neq\emptyset\) such that \(i\neq j\).</p>
+
+<p>The constraint that partitionings should be of about the same size is called <em>imbalance constraint</em>. In this benchmark it is defined as follows:</p>
+
+<p>\[ imbal=\dfrac{\sum_{v\in V_{max}}w(v)}{\frac{1}{k}\sum_{v\in V}w(v)}\text{, where } V_{max}: \sum_{v\in V_{max}}w(v) = \max_i(\sum_{v\in V_{i}}w(v)) \]</p>
+
+<p>Cut metric used by this benchmark is the number of cut hyperedges (i.e. \(|E_{cut}|\)) and all vertices and hyperedges have unit weight. However, in general hypergraph partitioning problem allows many cut metrics, as well as weighted vertices and hyperedges.</p>
+
+<p>A quick introduction into the hypergraph partitioning problem can be found <a href="http://blog.shaydul.in/post/hypergraph-partitioning-101/">here</a>.</p>
+
+<h2 id="how-to-submit-your-algorithm">How to submit your algorithm</h2>
+
+<p>In order to have you algorithm included in this benchmark, you&rsquo;ll have to download the hypergraphs from <a href="https://clemson.box.com/s/r26tz74u6dlq87z9ukll80o66ur7lsje">here</a>, compute you partitioning and submit it in the following format.</p>
+
+<p>File with partitioning should be named <code>[graph name].[number of parts].[imbalance factor]</code>, where imbalance factor is an integer (number of percents). For example, file <code>lp_ken_07.2.10</code> should contain partitioning of the hypergraph lp_ken_07 into two parts with 10% imbalance factor.</p>
+
+<p>Each line of file contains two integers: number of the vertex and number of the partition to which the vertex is assigned. For example, line <code>10 2</code> would indicate that the vertex 10 is assigned to the partition 2. Vertices and partitionings should be numbered from one (and not from zero).</p>
+
+<p>The files should be sent to <a href="mailto:rshaydu@g.clemson.edu">rshaydu@g.clemson.edu</a>.</p>
+
+<h2 id="results">Results</h2>
+
+<p>Full table with the results is available <a href="http://shaydul.in/hypergraph-partitioning-archive/misc/hypergraph_partitioning_results_table/">here</a> and <a href="http://shaydul.in/misc/algebraic_distance_on_hypergraphs_results.csv">in csv</a>.</p>
 
   </div>
 </article>

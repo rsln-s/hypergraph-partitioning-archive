@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benchmark on Hypergraph Partitioning Archive</title>
+    <link>http://shaydul.in/hypergraph-partitioning-archive/tags/benchmark/</link>
+    <description>Recent content in Benchmark on Hypergraph Partitioning Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Sep 2017 12:25:35 -0400</lastBuildDate>
+    
+	<atom:link href="http://shaydul.in/hypergraph-partitioning-archive/tags/benchmark/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hypergraph Partitioning 101</title>
+      <link>http://shaydul.in/hypergraph-partitioning-archive/</link>
+      <pubDate>Wed, 20 Sep 2017 12:25:35 -0400</pubDate>
+      
+      <guid>http://shaydul.in/hypergraph-partitioning-archive/</guid>
+      <description>Hypergraph partitioning archive Welcome to the Hypergraph partitioning archive. The goal of this archive is to provide a benchmark for comparing the quality of hypergraph partitioning algorithms. This archive includes partitioning results by some of the most popular hypergraph partitioning packages. The researchers are welcome to submit their own partitionings to this archive.
+Problem definition Let \(H=(V,E)\) be a hypergraph with a set of vertices \(V\) and the set of hypergredges \(E\).</description>
+    </item>
+    
+  </channel>
+</rss>

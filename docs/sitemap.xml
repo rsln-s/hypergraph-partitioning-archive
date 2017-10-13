@@ -17,7 +17,7 @@
   </url>
   
   <url>
-    <loc>http://shaydul.in/hypergraph-partitioning-archive/tags/101/</loc>
+    <loc>http://shaydul.in/hypergraph-partitioning-archive/tags/benchmark/</loc>
     <lastmod>2017-09-20T12:25:35-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -30,7 +30,7 @@
   </url>
   
   <url>
-    <loc>http://shaydul.in/hypergraph-partitioning-archive/tags/hypergraph-partitioning/</loc>
+    <loc>http://shaydul.in/hypergraph-partitioning-archive/tags/hypergraph-partitioning-archive/</loc>
     <lastmod>2017-09-20T12:25:35-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -39,13 +39,6 @@
   <url>
     <loc>http://shaydul.in/hypergraph-partitioning-archive/misc/</loc>
     <lastmod>2017-10-12T17:57:19-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://shaydul.in/hypergraph-partitioning-archive/tags/research/</loc>
-    <lastmod>2017-09-20T12:25:35-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

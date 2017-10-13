@@ -18,6 +18,8 @@ reward: false
 mathjax: false
 ---
 
+The metric is the number of hyperedges cut. The best result for a given set of parameters is highlighted in bold.
+
 Graph name | \|V\| | \|E\| | \|pins\| | Number of parts | Imbalance | Zoltan-AlgD | Zoltan | PaToH | HMetis 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 Oregon-1 | 11492 | 11174 | 46818 | 128 | 1.03 | 3125.0 | **3066.0** | 3152.0 | 3069.0 
