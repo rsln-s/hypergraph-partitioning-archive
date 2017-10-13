@@ -34,7 +34,7 @@ A quick introduction into the hypergraph partitioning problem can be found [here
 
 ## How to submit your algorithm
 
-In order to have your algorithm included in this benchmark, you'll have to download the hypergraphs from [here](https://clemson.box.com/s/r26tz74u6dlq87z9ukll80o66ur7lsje), compute you partitioning and submit it in the following format.
+In order to have your algorithm included in this benchmark, you'll have to download the hypergraphs from [here](https://clemson.box.com/s/r26tz74u6dlq87z9ukll80o66ur7lsje), compute your partitioning and submit it in the following format.
 
 File with the partitioning should be named `[graph name].[number of parts].[imbalance factor]`, where imbalance factor is an integer (number of percents). For example, file `lp_ken_07.2.10` should contain partitioning of the hypergraph lp\_ken\_07 into two parts with 10% imbalance factor.
 
