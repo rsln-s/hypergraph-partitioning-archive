@@ -6,10 +6,20 @@
     <description>Recent content in Miscs on Hypergraph Partitioning Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Oct 2017 17:57:19 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2018 21:54:41 -0500</lastBuildDate>
     
 	<atom:link href="http://shaydul.in/hypergraph-partitioning-archive/misc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aggregative Coarsening for Multilevel Hypergraph Partitioning</title>
+      <link>http://shaydul.in/hypergraph-partitioning-archive/misc/aggregative-coarsening-for-multilevel-hypergraph-partitioning/</link>
+      <pubDate>Wed, 21 Feb 2018 21:54:41 -0500</pubDate>
+      
+      <guid>http://shaydul.in/hypergraph-partitioning-archive/misc/aggregative-coarsening-for-multilevel-hypergraph-partitioning/</guid>
+      <description>The metric is the number of hyperedges cut. The best result for a given set of parameters is highlighted in bold.
+   Graph name |V| |E| |pins| Number of parts Imbalance stb_amg agg_amg alg_dist zoltan patoh hmetis     aa01 8904 823 72965 1024 1.03 817.0 817.0 817.0 817.0 820.0 818.0   aa01 8904 823 72965 1024 1.05 817.0 817.0 817.0 817.0 820.0 817.0   aa01 8904 823 72965 1024 1.</description>
+    </item>
     
     <item>
       <title>Hypergraph_partitioning_results_table</title>

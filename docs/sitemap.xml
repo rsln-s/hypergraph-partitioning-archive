@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://shaydul.in/hypergraph-partitioning-archive/misc/aggregative-coarsening-for-multilevel-hypergraph-partitioning/</loc>
+    <lastmod>2018-02-21T21:54:41-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://shaydul.in/hypergraph-partitioning-archive/misc/hypergraph_partitioning_results_table/</loc>
     <lastmod>2017-10-12T17:57:19-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,7 +45,7 @@
   
   <url>
     <loc>http://shaydul.in/hypergraph-partitioning-archive/misc/</loc>
-    <lastmod>2017-10-12T17:57:19-04:00</lastmod>
+    <lastmod>2018-02-21T21:54:41-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
