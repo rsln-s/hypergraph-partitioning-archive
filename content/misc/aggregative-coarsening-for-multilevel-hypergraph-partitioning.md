@@ -2,7 +2,7 @@
 title: "Aggregative Coarsening for Multilevel Hypergraph Partitioning"
 date: 2018-02-21T21:54:41-05:00
 lastmod: 2018-02-21T21:54:41-05:00
-draft: true 
+draft: false
 keywords: []
 description: ""
 tags: []
