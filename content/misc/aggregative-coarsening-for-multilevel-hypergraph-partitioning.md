@@ -18,6 +18,8 @@ reward: false
 mathjax: false
 ---
 
+The following table presents the results for the paper "Aggregative Coarsening for Multilevel Hypergraph Partitioning". They are in the process of being integrated into the larger archive. 
+
 The metric is the number of hyperedges cut. The best result for a given set of parameters is highlighted in bold.
 
 Graph name | \|V\| | \|E\| | \|pins\| | Number of parts | Imbalance | stb\_amg | agg\_amg | alg\_dist | zoltan | patoh | hmetis
