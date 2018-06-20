@@ -29,7 +29,8 @@ The metric is the number of hyperedges cut. The best result for a given set of p
       
       <guid>http://shaydul.in/hypergraph-partitioning-archive/misc/hypergraph_partitioning_results_table/</guid>
       <description>The metric is the number of hyperedges cut. The best result for a given set of parameters is highlighted in bold.
-   Graph name |V| |E| |pins| Number of parts Imbalance Zoltan-AlgD Zoltan PaToH HMetis     Oregon-1 11492 11174 46818 128 1.03 3064.0 3133.0 3103.0 3069.0   Oregon-1 11492 11174 46818 128 1.05 2777.0 2792.0 3115.0 3066.0   Oregon-1 11492 11174 46818 128 1.</description>
+This table contains results for the paper &amp;ldquo;Relaxation-Based Coarsening for Multilevel Hypergraph Partitioning&amp;rdquo;.
+   Graph name |V| |E| |pins| Number of parts Imbalance Zoltan-AlgD Zoltan PaToH-D PaToH-Q hMetis     Hamrle2 5952 5952 22162 128 1.03 1833 1903 1939.0 1773.0 1715.0   Hamrle2 5952 5952 22162 128 1.</description>
     </item>
     
   </channel>
